@@ -83,12 +83,24 @@ The main performance parameters are:
 
 ## How to Run
 
-First, install the required Python packages:
+To run this project locally, first clone the repository:
+
+```bash
+git clone https://github.com/kaankarabakal-beep/rankine-cycle-optimization-tool.git
+```
+
+Then enter the project folder:
+
+```bash
+cd rankine-cycle-optimization-tool
+```
+
+Install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
-
 ```
+
 Then run the Streamlit application:
 
 ```bash

@@ -1,5 +1,9 @@
 # Grid-Based Optimization Mapping of a Rankine Cycle
 
+## Screenshot
+
+![Graphical user interface](figures/gui_screenshot.png)
+
 This project is an interactive Python tool for analyzing and optimizing a simple Rankine cycle using grid-based parametric sweeps. The tool evaluates cycle performance over a selected design space, applies engineering constraints, and identifies the optimum feasible operating point according to a user-defined objective function.
 
 The project includes both a computational backend and a Streamlit-based graphical user interface.

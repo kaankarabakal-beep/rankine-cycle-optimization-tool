@@ -14,6 +14,8 @@ In practical Rankine cycle design, the best operating point is not determined on
 
 This tool helps visualize these trade-offs by generating optimization maps for different combinations of operating parameters.
 
+A detailed project report is available here: [Project Report](report/rankine_cycle_optimization_report.pdf)
+
 ## Features
 
 - Simple Rankine cycle analysis

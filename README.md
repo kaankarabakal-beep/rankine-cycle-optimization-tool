@@ -81,9 +81,17 @@ The main performance parameters are:
 - NumPy
 - Matplotlib
 
-## How to Run
+## Prerequisites
 
-Git and Python must be installed on your computer before running these commands.
+Before running this project, make sure that the following tools are installed on your computer:
+
+- Python: https://www.python.org/downloads/
+- Git: https://git-scm.com/downloads
+
+Git is required only if you want to clone the repository using the terminal. 
+Alternatively, you can download the project as a ZIP file from GitHub, extract it, and open a terminal inside the extracted project folder.
+
+## How to Run
 
 Open a terminal such as Command Prompt, PowerShell, Windows Terminal, or Git Bash.
 

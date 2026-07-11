@@ -1,6 +1,6 @@
 # Grid-Based Optimization Mapping of a Rankine Cycle
 
-## Screenshot
+## 
 
 ![Graphical user interface](figures/gui_screenshot.png)
 

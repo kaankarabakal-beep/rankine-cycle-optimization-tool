@@ -83,13 +83,17 @@ The main performance parameters are:
 
 ## How to Run
 
-To run this project locally, first clone the repository:
+Git and Python must be installed on your computer before running these commands.
+
+Open a terminal such as Command Prompt, PowerShell, Windows Terminal, or Git Bash.
+
+To run this project locally, first clone the repository. This will download the project folder to your computer:
 
 ```bash
 git clone https://github.com/kaankarabakal-beep/rankine-cycle-optimization-tool.git
 ```
 
-Then enter the project folder:
+Then enter the downloaded project folder:
 
 ```bash
 cd rankine-cycle-optimization-tool

@@ -113,7 +113,7 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-Then run the Streamlit application:
+Then run the Streamlit application by writing this to the terminal inside the extracted project folder. :
 
 ```bash
 streamlit run app.py
